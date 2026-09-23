@@ -1,0 +1,5 @@
+CC;10000001;Paula;Perez
+CC;10000002;Camila;Rodriguez
+CC;10000003;Paula;Flores
+CC;10000004;Paula;Castro
+CC;10000005;Laura;Rodriguez
